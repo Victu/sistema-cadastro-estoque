@@ -20,6 +20,7 @@ OBSERVAÇÃO: O sistema ainda não está estilizado; contudo, será estilizado n
 
 * Cadastro de produtos
 * Consulta de estoque em tempo real
+* Editar e atualizar informações dos produtos
 * Exclusão de produtos
 * Atualização assíncrona utilizando AJAX
 * Banco de dados inicializado automaticamente via Docker
@@ -112,7 +113,7 @@ Ao selecionar um produto, o sistema exibe a quantidade disponível em estoque se
 
 ### Atualização de Produtos
 
-É possível editar e atualizar dados dos produtos cadastrados.
+É possível editar e atualizar dados dos produtos cadastrados no sistema.
 
 ### Exclusão de Produtos
 
