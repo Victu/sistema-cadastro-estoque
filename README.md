@@ -1,6 +1,7 @@
-# 📦 CRUD - Cadastro e Controle de Estoque
+# 📦 Sistema de Cadastro e Controle de Estoque
 
-Sistema simples de cadastro e controle de estoque que desenvolvi com PHP, MySQL, JavaScript e Docker.
+Sistema simples de cadastro de produto e controle de estoque que desenvolvi com PHP, MySQL, JavaScript e Docker.
+OBSERVAÇÃO: O sistema ainda não está estilizado; contudo, será estilizado numa próxima atualização.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -23,12 +24,13 @@ Sistema simples de cadastro e controle de estoque que desenvolvi com PHP, MySQL,
 * Atualização assíncrona utilizando AJAX
 * Banco de dados inicializado automaticamente via Docker
 
-## 📂 Estrutura do Projeto
+## 🗂️​ Estrutura do Projeto
 
 ```text
 .
 ├── index.php
 ├── query.php
+├── update.php
 ├── connection.php
 ├── ajax.js
 ├── Dockerfile
