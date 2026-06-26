@@ -1,6 +1,6 @@
 # 📦 Sistema de Cadastro e Controle de Estoque
 
-Sistema simples de cadastro de produto e controle de estoque que desenvolvi com PHP, MySQL, JavaScript e Docker.
+Sistema simples de cadastro de produto e controle de estoque que desenvolvi com PHP, MySQL, JavaScript e Docker.<br>
 OBSERVAÇÃO: O sistema ainda não está estilizado; contudo, será estilizado numa próxima atualização.
 
 ## 🚀 Tecnologias Utilizadas
@@ -109,6 +109,10 @@ Permite cadastrar:
 ### Consulta de Estoque
 
 Ao selecionar um produto, o sistema exibe a quantidade disponível em estoque sem recarregar a página.
+
+### Atualização de Produtos
+
+É possível editar e atualizar dados dos produtos cadastrados.
 
 ### Exclusão de Produtos
 
